@@ -1,0 +1,5 @@
+{
+    "fqbn": "esp8266com:esp8266:d1",
+    "hardwareFolders": "/usr/share/arduino/hardware",
+    "toolsFolders": "/usr/bin"
+}
